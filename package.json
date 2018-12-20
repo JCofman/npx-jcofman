@@ -1,0 +1,41 @@
+{
+  "name": "jcofman",
+  "description": "\"npx jcofman\" - to see my info",
+  "version": "1.0.0",
+  "author": "Jacob Cofman <cofman.jacob@gmail.com>",
+  "bugs": "https://github.com/Jcofman/jcofman/issues",
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "src/*.js"
+  ],
+  "bin": {
+    "jcofman": "./src/index.js"
+  },
+  "homepage": "https://github.com/Jcofman/jcofman#readme",
+  "keywords": [
+    "jacob",
+    "cofman",
+    "cli",
+    "information",
+    "terminal"
+  ],
+  "license": "MIT",
+  "main": "src/",
+  "private": false,
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jcofman/jcofman.git"
+  },
+  "scripts": {
+    "start": "node ./src"
+  },
+  "dependencies": {
+    "boxen": "2.1.0",
+    "chalk": "2.4.1"
+  }
+}
