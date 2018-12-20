@@ -2,12 +2,6 @@
 
 > &#34;npx jcofman&#34; - to see my info
 
-[![NPM][npm-icon]][npm-url]
-
-[![Build status][ci-image]][ci-url]
-[![semantic-release][semantic-image]][semantic-url]
-[![standard][standard-image]][standard-url]
-[![renovate-app badge][renovate-badge]][renovate-app]
 
 Inspired by (and shamelessly copied from) `npx marius` and `npx gleb`
 
@@ -21,7 +15,7 @@ npx jcofman
    ╭──────────────────────────────────────────────────────────────────────────╮
    │                                                                          │
    │   Jacob Cofman,                                                          │
-   │   Coffee lover ☕️, Volleyball player 🏐 JavaScript developer 💻           │
+   │   Coffee lover, Volleyball player,  JavaScript developer                 │
    │                                                                          │
    │          Web: https://jcofman.de                                         │
    │         Blog: https://jcofman.de/blog                                    │
